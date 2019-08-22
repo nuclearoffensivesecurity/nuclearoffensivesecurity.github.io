@@ -1,0 +1,203 @@
+Package: automater
+Version: 1.0-1
+Section: pentest
+Priority: optional
+Architecture: all
+Depends: python2
+Maintainer: Rabby Sheikh @ng1nX4O4
+Description: URL/Domain, IP Address And Md5 Hash OSINT Tool
+Filename: dists/termux/extras/binary-all/automater_1.0-1_all.deb
+Size: 34220
+MD5Sum: b2fbce39273d4002069f52204051bf5e
+SHA1: 35e53c989719c2a2b5669da65d55a1b270ee3b97
+SHA256: 94b12bb9f463a08f5fd8318019aa8244e7e4517b0f85fdef2271846558e1b749
+SHA512: 62aa5240ae8734ebb7a489f5ba0c25ba8cf9cf59e35069acf1a578b0147179e924edf0f7b79cbf035f04aa24d6117689af41dbcdac05f1424d286b9414e99db2
+
+Package: chameleon
+Version: 1.0-1
+Section: pentest
+Priority: optional
+Architecture: all
+Depends: python2
+Maintainer: Rabby Sheikh @ng1nX4O4
+Description: Assists Red Teaming In Categoring
+Filename: dists/termux/extras/binary-all/chameleon_1.0-1_all.deb
+Size: 8236
+MD5Sum: d7dfad78065c87f27a50c7fb90fc5541
+SHA1: b28ab071c10592a543fb55a0272325ab9416dc35
+SHA256: b20106481a29c2d897ad59018d8de5b55fc764b15ca68b4e123a095fb9ac9200
+SHA512: cbeb113fc8f97cd4a4b45245ac6d848a0273669d537025e44428578d23c6dbce328b148fad92b7612654ce1616c859b36519d4eb71b8f4137dad462041a8fce9
+
+Package: cr3d0v3r
+Version: 0.4.4
+Section: pentest
+Priority: optional
+Architecture: all
+Depends: dev-build-essential
+Maintainer: Rabby Sheikh @ng1nX4O4
+Description: Credential Reuses Tool
+Installed-Size: 70
+Filename: dists/termux/extras/binary-all/cr3d0v3r_0.4.4_all.deb
+Size: 8316
+MD5Sum: a6a8b39bd6eef5895d0a04bb91fb4df9
+SHA1: df890094a1b0ed13a7de4322d93ff6e5e9f3c1eb
+SHA256: 6688e0590cb107c509f64bb58848808adac398bd82e66a947ed8d38c7cb33d07
+SHA512: 387a527a7b08d719161694596775bfe635d43920f99f30f5bbc5fbca4fbfe2d893478a2168cc572945897b2ababf8baed6235b7b8b38618daa8704e38855776a
+
+Package: dev-build-essential
+Version: 1.0-1			
+Section: base
+Priority: optional
+Architecture: all
+Depends: build-essential, python, python2, clang, libxml2, libxml2-static, libxslt, libxslt-static, unstable-repo, git, curl, wget
+Maintainer: Rabby Sheikh @ng1nX4O4
+Description: Developer Build Essential Packages
+Filename: dists/termux/extras/binary-all/deb-build-essential_1.0-1_all.deb
+Size: 776
+MD5Sum: 6566d2ad4752e6fb3d2ff66f15e9a384
+SHA1: 8bca37d57b51950870e68be9717a9cf0d4492d5c
+SHA256: 6497218d7d15df4062daccd15080f5a48a728172aedecf1f7551b630d2b6bcca
+SHA512: dae21f802733ac27b1a10db37fef2a936a7fac4d6c4201074eb2fee1baaea246ffc982dd320a349ba348c1b9f0827ffa436027f3f40b874d01de5961135c2974
+
+Package: dnsmap
+Version: 1.0-1
+Section: pentest
+Priority: optional
+Architecture: all
+Depends: dev-build-essential
+Installed-Size: 135
+Maintainer: Rabby Sheikh @ng1nX4O4
+Description: DNS Domain Name Brute Forcing Tool
+Filename: dists/termux/extras/binary-all/dnsmap_1.0-1_all.deb
+Size: 11892
+MD5Sum: 97db0d26697113c92ce1b1089a5be93b
+SHA1: ec1c2ac676a9d29e30a8dd26b0a169f3196af8b3
+SHA256: ab6e440253d87d3f139da35808fc64fc9c2f965ce932d62a170382db30d975f3
+SHA512: 14380d988c266e0b7c48e0a7e1beff99b0447de6ec79fd21481f248ddc7ede7ee6bf47e25b9883f954b2335d455712dd69dd987842a01856d664f4545c00242f
+
+Package: gasmask
+Version: 1.4.1
+Installed-Size: 100
+Section: pentest
+Priority: optional
+Architecture: all
+Depends: dev-build-essential
+Maintainer: Rabby Sheikh @ng1nX4O4
+Description: All In One Information Gathering Tool
+Filename: dists/termux/extras/binary-all/gasmask_1.4.1_all.deb
+Size: 15048
+MD5Sum: d92dfea0e12bea01e4ad2847f8faa2be
+SHA1: aab6e0cb5ff8977ec16159bd003dce11c11f1cff
+SHA256: 756042b8b101b0cb1ff97ac833da746270d6ca9cb65589e75fa0ca7a18811e8e
+SHA512: af21ab5280688d4f346af31631c1d839e587a950bb00c24d5f4b51e90ab370334ff0ffd57bd9bed9787d2def90e7d0e895476da377dc12a9b95d1aa5152fe7b5
+
+Package: nettacker
+Version: 0.0.1
+Section: pentest
+Architecture: all
+Depends: dev-build-essential
+APT-Manual-Installed: yes
+Installed-Size: 19456
+Maintainer: Rabby Sheikh @ng1nX4O4
+Description: Automated Penetration Testing Framework
+Filename: dists/termux/extras/binary-all/nettacker_0.0.1_all.deb
+Size: 3158184
+MD5Sum: 47c33bf51c141ae1130daf64c7f920c7
+SHA1: 6b05f3ab774effecf1b390e462259c397b55aa8a
+SHA256: 8e2c1876efea9d4c03d67e211339218a74c7667ca82ea51547db917c66759a6e
+SHA512: 411ed168f1ab302789d4c7355b10b503c49494e32736810d5535440937efe81352205bfd9d8dc445cfbf38a97affa01819b48fb4f3cf5098dfb2801dde75dc3e
+
+Package: pentest-ig
+Version: 1.0
+Section: pentest
+Priority: optional
+Architecture: all
+Depends: dev-build-essential, php, dnsutils, nettacker, gasmask, dnsmap, chameleon, theharvester, sublist3r, nmap, cr3d0v3r, recondog, raccoon, automater, redhawk 
+Maintainer: Rabby Sheikh @ng1nX4O4
+Description: Pentesting Tools Information Gathering
+Filename: dists/termux/extras/binary-all/pentest-ig_1.0_all.deb
+Size: 820
+MD5Sum: b8b5c00db5b30ba3e06f5d46346159e4
+SHA1: cf09d628ba413359f0a5a6b24d1658e2d7551e00
+SHA256: 005caa033cf323e38ce3dac028ffe2f38b62e45a778e00f8c2ebcb65e397beca
+SHA512: cff12a0481f4c18a1f7b98c4322c760dbcedfd1c4bdc839f8716383c00706ed17505bec8588b9e1f7679055bb599881db0be055c05bef43fe89278940157c8dd
+
+Package: raccoon
+Version: 0.8.5
+Section: pentest
+Priority: optional
+Architecture: all
+Depends: dev-build-essential
+Maintainer: Rabby Sheikh @ng1nX4O4
+Description: Offensive Security Tool For Recon
+Filename: dists/termux/extras/binary-all/raccoon_0.8.5_all.deb
+Size: 832
+MD5Sum: 864e75fd815e21d89f04a0a5fba154af
+SHA1: 7a393410a3dc1273a98e46c195ff98644e215ac5
+SHA256: 452ddaefd8bf4d7b296fe2791d3dd178bf4f54e71be1c61150494ed1e617cbe9
+SHA512: 93a138c219e3848d1b0131e417a23d633ebaafe674bda69d794e1efc58c185037733cc5f4c77b841e35052cf9584c3d7784a004ed97faf78f1ef29aae9c18b6e
+
+Package: recondog
+Version: 2.0
+Section: pentest
+Priority: optional
+Architecture: all
+Depends: dev-build-essential
+Installed-Size: 300
+Maintainer: Rabby Sheikh @ng1nX4O4
+Description: Reconnaissance Swiss Army Knife
+Filename: dists/termux/extras/binary-all/recondog_2.0_all.deb
+Size: 10024
+MD5Sum: 6f22cbe091bc0704ca2338ddb71fb434
+SHA1: 5029a4de1d18fe711bd57a4d1a3b0578d509034c
+SHA256: 34b9e904a416eb3c171765195456116724161ba3846d669f7f97a0393bbaca0e
+SHA512: 3d2a42673c08a1102f155da10089ad551861f5d8ff7678d25e5b4bfd0f9be0c2052963a46fe40eeefb0f5393c73715898241fbd5d3b1cd2b5b6782366e882829
+
+Package: redhawk
+Version: 2.0
+Section: pentest
+Priority: optional
+Architecture: all
+Depends: php, curl
+Installed-Size: 130
+Maintainer: Rabby Sheikh @ng1nX4O4
+Description: All in one tool for Information Gathering and Vulnerability Scanning
+Filename: dists/termux/extras/binary-all/redhawk_2.0_all.deb
+Size: 19640
+MD5Sum: 4d0248f5207c9dc46d2826d9ab736ec1
+SHA1: 8bbb7ad798fda95be6be830c388b75d6acfafff4
+SHA256: bb14cb097ea43fecaad38fa52218823ad61abffa72050f65a2e0170ddcb2bc54
+SHA512: 4828fd020953ab769d6947ebbc08c7cb3012c819ebb20acc3f49f987bfe3d8950ea650458e1b1502bb90407755079e15ff7616abea74bf9e9d0210f54e757155
+
+Package: sublist3r
+Version: 1.0-1
+Installed-Size: 560
+Section: pentest
+Priority: optional
+Architecture: all
+Depends: dev-build-essential
+Maintainer: Rabby Sheikh @ng1nX4O4
+Description: Domain Enumeration Tool
+Filename: dists/termux/extras/binary-all/sublist3r_1.0-1_all.deb
+Size: 623700
+MD5Sum: 9ad91846d593c1efca4e42625eb07bc2
+SHA1: 67c7b7f4f12cdb8a26c8f797a7f6dab39afd393e
+SHA256: a54f962c8962bc5776d881a73b9dfac26760cef0a92219c758a72b83054cef17
+SHA512: 976bc7cb146c282e68281bf281bffd6a8709e98f6f0618908e81275f8ec08af6f20e44a5c657d5cfec8c66f5d0872acadfae7624a8c5baa9a031ea3f91d438ee
+
+Package: theharvester
+Version: 3.1.0-1
+Section: pentest
+Priority: optional
+Architecture: all
+Depends: dev-build-essential
+Maintainer: Rabby Sheikh @ng1nX4O4
+Description: Emails, Subdomains and names Harvester
+Installed-Size: 3380
+Filename: dists/termux/extras/binary-all/theharvester_3.1.0-1_all.deb
+Size: 747720
+MD5Sum: e3d3cbaebbf1cb3a87c835d2857e18ec
+SHA1: a9826c9f68d16f9361d0e81a1154bfc5f7eea93c
+SHA256: e9ffe9bbefee8d8f29b8c31a28aacec5baac588c59afb5bde72d79c3b544efbb
+SHA512: 2568b374d08f084de0ff1e0f95e95b05c5271bf767eeaf897fabff03def43f8093618b5cbb1bbd7b7d89bb56e62b657dad7d8f8d4dd1e7551429a3167e4edf23
+

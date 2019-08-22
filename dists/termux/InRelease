@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Codename: termux
+Version: 1
+Architectures: all
+Description: termux repository
+Suite: termux
+Date: Thu, 22 Aug 2019 13:09:52 UTC
+MD5Sum:
+ cb0c286798fcc11de291934b86eed0e7 7888 extras/binary-all/Packages
+ e788ffa895acbd4fe70c7b2906233076 3108 extras/binary-all/Packages.xz
+ 3f9f6d33bdfac11fe07cd1b13eb0dedb 133895 extras/Contents-all
+ c846c44008746f832b03f47ef71cd7e3 5396 extras/Contents-all.xz
+SHA1:
+ e6d28cb13c1dc454eacc7852f517f7473843a07c 7888 extras/binary-all/Packages
+ 527a394d3fdb8bbec4c4c9183e4506083865e1e8 3108 extras/binary-all/Packages.xz
+ 62b54d8914c98c99e05989ec18cba24f6687bbaa 133895 extras/Contents-all
+ bef83f73e1f44e504dc60ef0f32f38492c437206 5396 extras/Contents-all.xz
+SHA256:
+ c5d3d57d8bf22b5b47aab0c6118068991846618b890408e865732e65b5cbc620 7888 extras/binary-all/Packages
+ 94e3f2cedbc348810bef2e7627e52088fa08ac7e77eecaada44adac88aba9a63 3108 extras/binary-all/Packages.xz
+ c6dfad796cc369bc2235e0f493d5c67ffd0d3ac431f528c48c2f33dd189ff75a 133895 extras/Contents-all
+ ef5fb362cabbbc44ba02a6a8b865fc53646982935ae7b32c6ce8350f13993d05 5396 extras/Contents-all.xz
+SHA512:
+ 30eebaa0fe3734525c8bd0b88b85bd12a35539499c533443011d2bd12261c4e198b868b429e3611581038d76ed7165c3e2166cd3dba11872e5315dbe1a7862c7 7888 extras/binary-all/Packages
+ 004e157975b1d98935f07024e5e966357cff45ecda3ed94355c2320a4d59748a0b2acdbcb33e475606763431e6cfcf15135140002f0315f9e66925214e00c897 3108 extras/binary-all/Packages.xz
+ 3a6d719e365ddd3af355d7dc926842613bfd2e1551a32b5c655d86fd8f61fd6b5804f2feefde0da2f62b82a3ca43bf76e47d5ada417f7042703a7fdd6c467be5 133895 extras/Contents-all
+ 16daa8658abd64c52b98df028a4457665e8df004e03f71105c3468825f34c7ad9296f62f30eb6718c6a391d33ddd418b560e36e33ee30d02e65937b3f6f713ab 5396 extras/Contents-all.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEKTB/vIj1FwYMGHRRK2SztvY3RcgFAl1elCIACgkQK2SztvY3
+Rcg3uggAyiBDe1+wFa+llxbZLaQfExpRAQi5C4h0mespy1jCDysupmaMKdJ8rwzD
+ZNaFy/XQSt22cJRmVGXFRZmTM63bcozFxkjD+IVs5QS7qCm4uQCikyj/sdoQn93u
+A32di0XaBZ61pdbG1vlSYcqy2+J7RZV2Lsrw4Vkp33OVLn2xnv/yZvLKw7wmQi9H
+KFC4DQ5bd5jx5HD5r7Ns1mR68RAw+0zziq8Tn/zKm9lCeLfvzfqpd6VzAZOOjyct
+rNY5lJwJgF/33xEYxJcMmDWP/C3s1T6xaRkxiCeydKxyAfsmJGWtci5LuliIuKle
+hywD4qFJ9xNZVWdMPgEm2Kl/oY3UVA==
+=wbcK
+-----END PGP SIGNATURE-----
