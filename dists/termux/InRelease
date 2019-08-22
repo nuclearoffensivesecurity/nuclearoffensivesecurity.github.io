@@ -3,7 +3,7 @@ Hash: SHA256
 
 Codename: termux
 Version: 1
-Architectures: all
+Architectures: all arm i686 aarch64 x86_64 
 Description: termux repository
 Suite: termux
 Date: Thu, 22 Aug 2019 13:09:52 UTC
